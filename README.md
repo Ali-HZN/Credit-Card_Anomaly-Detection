@@ -36,5 +36,4 @@ The following needs to be installed to run the code.
 
 ## Paper
 
-<div align="justify">To contemplate the code, we have written a paper discussing the various methods and techniques used in this project. What approaches we have chosen and why we did certain things and the results we got.<div/><br>
-The paper can be downloaded from https://github.com/Ali-HZN/Credit-Card_Anomaly-Detection/blob/main/DAT550_Project_Report.pdf.
+<div align="justify">To contemplate the code, we have written a paper discussing the various methods and techniques used in this project. What approaches we have chosen and why we did certain things and the results we got. The paper can be downloaded from https://github.com/Ali-HZN/Credit-Card_Anomaly-Detection/blob/main/DAT550_Project_Report.pdf.<div/> 
